@@ -6,7 +6,10 @@ Ingeniero Informático y Científico de Datos en proceso<br><br>
 
 
 ## 🌐 Redes:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dpinedomoreno) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://es.stackoverflow.com/users/136024) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dpinedomoreno) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://es.stackoverflow.com/users/136024) 
+<br><br>
+[![CodeWars](https://www.codewars.com/users/DPM-ES/badges/small)](https://www.codewars.com/users/DPM-ES/)
 
 # 💻 Pila técnica:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
