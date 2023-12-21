@@ -8,6 +8,8 @@ Ingeniero Informático y Científico de Datos en proceso<br><br>
 ## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dpinedomoreno) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://es.stackoverflow.com/users/136024) 
+<br>
+[`Manfred`](https://mnf.red/dpinedomoreno)
 <br><br>
 [![CodeWars](https://www.codewars.com/users/DPM-ES/badges/small)](https://www.codewars.com/users/DPM-ES/)
 
